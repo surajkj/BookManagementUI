@@ -21,3 +21,42 @@ Angular Steps
 	ng generate component ui/header
 	ng generate component ui/footer
 10) Change Layout,Header & Footer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Notes
+Basic building block of angular NgModules - Provides compilation context for components
+Angular app defined by set of NgModules
+App has atleast root module - bootstraps app
+Component define views - Every app has alteast root component
+Component use Service - Service provide specific functionality
+Service provider can be injected into component as dependency - makes code modular,reusable & efficient
+Both Component & Service are classes with Decorators
+Decorators mark class type & provide meta data
+Metadata associates Component with Template
+
+*/
