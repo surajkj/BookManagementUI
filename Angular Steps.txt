@@ -7,4 +7,9 @@ Angular Steps
 4)Go to project directory - cd BookManagement
 5)Run Project - ng serve
 
-//
+//Add Bootstrap
+6)Added Bootstrap & font awesome - npm install bootstrap font-awesome 
+7)Import css in src/styles.css
+	@import "~bootstrap/dist/css/bootstrap.css";
+	@import "~font-awesome/css/font-awesome.css";
+
