@@ -13,3 +13,11 @@ Angular Steps
 	@import "~bootstrap/dist/css/bootstrap.css";
 	@import "~font-awesome/css/font-awesome.css";
 
+//Create Login Page
+//Ref:- https://medium.com/@beeman/tutorial-styling-angular-cli-v6-apps-with-bootstrap-8d4f8ea5adae
+8)Create the UiModule - ng generate module ui --module app.module
+9)Generate Component inside module
+	ng generate component ui/layout
+	ng generate component ui/header
+	ng generate component ui/footer
+10) Change Layout,Header & Footer
