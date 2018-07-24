@@ -21,6 +21,7 @@ Angular Steps
 	ng generate component ui/footer
 10) Change Layout,Header & Footer
 11)Create all required component
+//Ref:-https://github.com/cornflourblue/angular-6-registration-login-example
 12)Create Login page ui
 13)Create Registration page ui
 14)Create routing between login and Registration
